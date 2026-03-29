@@ -4,5 +4,6 @@
   "dataview",
   "templater-obsidian",
   "obsidian-linter",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-git"
 ]
