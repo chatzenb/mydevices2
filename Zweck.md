@@ -1,0 +1,1 @@
+Wir verwalten die vorhandenen Computer, Cloud Storages und ähnliche Dinge in je einer Notiz. Ähnlichen Geräte sind in Zweigen zusammengefasst. Technische Daten nutzen die Obsidian Data Funktionalität.
